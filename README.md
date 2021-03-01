@@ -4,7 +4,7 @@
 The purpose of this project was to create a webpage to visualize UFO sighting data from a JavaScript file and to analyze the data to discover similarities or patterns.
 
 ## Results
-![ufo_filter_1]("C:\Users\Brandon\Desktop\ufo_filter_1.PNG")
+![ufo_filter_1](C:\Users\Brandon\Desktop\ufo_filter_1.PNG)
 
 The user can filter the data by using inputting a date in the date filter. 
 
